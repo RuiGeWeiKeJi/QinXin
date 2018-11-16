@@ -1,0 +1,12 @@
+17:54:52.060 将 varchar 转换为数据类型 numeric 时出现算术溢出错误。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\QingXin\分筛\SiftingData\SiftingDataBll\SqlHelper.cs:行号 797
+17:54:52.062 INSERT INTO JSKLIB (LIB001,LIB002,LIB003,LIB004,LIB005,LIB006,LIB008,LIB019,LIB982,LIB983,LIB984,LIB960,LIB007,LIB020,LIB021,LIB022,LIB023,LIB024,LIB961,LIB964) VALUES ('CK2018071801','001','2010011','东方田园条茶16孔下','KG','冷库A3','100010000.000000000000','2017111106,30','10000.000000','10000.000000','10000.000000','','-1','1','1','KG','100010000.000000000000','','ZJ426318101
+','八木 焖炒苦荞麦茶') 

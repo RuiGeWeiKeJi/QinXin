@@ -1,0 +1,120 @@
+15:06:34.849 @DEL001 2010011
+15:06:34.851 @DEL002 东方田园条茶16孔下
+15:06:34.851 @DEL003 
+15:06:34.852 @DEL004 KG
+15:06:34.853 @DEL005 2017101002,30
+15:06:34.853 @DEL006 冷库A3
+15:06:34.854 @DEL007 1
+15:06:34.855 @DEL008 1
+15:06:34.856 @DEL009 1
+15:06:34.856 @DEL010 1
+15:06:34.857 @DEL011 GD201804130006
+15:06:34.858 @DEL012 1
+15:06:34.858 @DEL013 
+16:03:42.983 @DEL001 2010011
+16:03:42.984 @DEL002 东方田园条茶16孔下
+16:03:42.985 @DEL003 
+16:03:42.986 @DEL004 KG
+16:03:42.986 @DEL005 2018030803,30
+16:03:42.987 @DEL006 冷库A5
+16:03:42.988 @DEL007 2
+16:03:42.988 @DEL008 2
+16:03:42.989 @DEL009 2
+16:03:42.990 @DEL010 2
+16:03:42.990 @DEL011 GD201804030001
+16:03:42.991 @DEL012 2
+16:03:42.992 @DEL013 
+16:03:42.995 @DEL001 2010011
+16:03:42.996 @DEL002 东方田园条茶16孔下
+16:03:42.997 @DEL003 
+16:03:42.997 @DEL004 KG
+16:03:42.998 @DEL005 2017101002,30
+16:03:42.999 @DEL006 冷库A3
+16:03:42.999 @DEL007 1
+16:03:43.000 @DEL008 1.22
+16:03:43.001 @DEL009 2
+16:03:43.001 @DEL010 2
+16:03:43.002 @DEL011 GD201804030001
+16:03:43.003 @DEL012 2
+16:03:43.003 @DEL013 
+16:03:43.005 @DEL001 2010011
+16:03:43.006 @DEL002 东方田园条茶16孔下
+16:03:43.007 @DEL003 
+16:03:43.007 @DEL004 KG
+16:03:43.008 @DEL005 2017111106,30
+16:03:43.009 @DEL006 冷库A3
+16:03:43.009 @DEL007 1.2
+16:03:43.010 @DEL008 2.456
+16:03:43.011 @DEL009 2
+16:03:43.011 @DEL010 2
+16:03:43.012 @DEL011 GD201804030001
+16:03:43.013 @DEL012 2
+16:03:43.013 @DEL013 
+16:03:43.015 @DEL001 2010011
+16:03:43.016 @DEL002 东方田园条茶16孔下
+16:03:43.017 @DEL003 
+16:03:43.018 @DEL004 KG
+16:03:43.020 @DEL005 2018012802,16
+16:03:43.020 @DEL006 有机区
+16:03:43.021 @DEL007 2.34
+16:03:43.022 @DEL008 2.123
+16:03:43.022 @DEL009 2
+16:03:43.023 @DEL010 2
+16:03:43.024 @DEL011 GD201804030001
+16:03:43.025 @DEL012 2
+16:03:43.025 @DEL013 
+17:52:08.774 @DEL001 2010011
+17:52:08.775 @DEL002 东方田园条茶16孔下
+17:52:08.776 @DEL003 
+17:52:08.777 @DEL004 KG
+17:52:08.777 @DEL005 2018012802,16
+17:52:08.778 @DEL006 有机区
+17:52:08.779 @DEL007 3
+17:52:08.780 @DEL008 3
+17:52:08.780 @DEL009 3
+17:52:08.781 @DEL010 50.0%
+17:52:08.781 @DEL011 GD201804040001
+17:52:08.782 @DEL012 
+17:52:08.783 @DEL013 
+17:52:08.786 @DEL001 2010011
+17:52:08.786 @DEL002 东方田园条茶16孔下
+17:52:08.787 @DEL003 
+17:52:08.787 @DEL004 KG
+17:52:08.788 @DEL005 2017101002,30
+17:52:08.788 @DEL006 冷库A3
+17:52:08.789 @DEL007 1
+17:52:08.790 @DEL008 1
+17:52:08.790 @DEL009 1
+17:52:08.791 @DEL010 16.67%
+17:52:08.791 @DEL011 GD201804040001
+17:52:08.792 @DEL012 
+17:52:08.792 @DEL013 
+17:52:08.794 @DEL001 2010011
+17:52:08.795 @DEL002 东方田园条茶16孔下
+17:52:08.795 @DEL003 
+17:52:08.798 @DEL004 KG
+17:52:08.798 @DEL005 2017111106,30
+17:52:08.799 @DEL006 冷库A3
+17:52:08.800 @DEL007 2
+17:52:08.801 @DEL008 2
+17:52:08.801 @DEL009 2
+17:52:08.802 @DEL010 33.33%
+17:52:08.803 @DEL011 GD201804040001
+17:52:08.803 @DEL012 
+17:52:08.804 @DEL013 
+17:52:26.994 从数据类型 nvarchar 转换为 float 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   在 System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   在 System.Data.SqlClient.SqlDataReader.Read()
+   在 System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   在 System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   在 System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 StudentMgr.SqlHelper.ExecuteDataTable(SqlConnection conn, String cmdText, SqlParameter[] parameters) 位置 D:\Project data\QingXin\分筛\SiftingData\SiftingDataBll\SqlHelper.cs:行号 241
+17:52:26.995 SELECT DEL001,DEL002,DEL003,DEL004,DEL005,DEL006,DEL007,CONVERT(FLOAT,DEL008) DEL008,CONVERT(FLOAT,DEL009) DEL009,CONVERT(FLOAT,DEL010) DEL010,CONVERT(FLOAT,DEL007*DEL008+DEL009) U0 FROM QIXDEL  WHERE DEL011 ='GD201804040001'
