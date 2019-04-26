@@ -217,11 +217,6 @@ D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\DevExpress.XtraE
 D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\DevExpress.XtraGrid.v16.2.dll
 D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\DevExpress.XtraLayout.v16.2.dll
 D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
-D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\FastReport.Bars.dll
-D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\FastReport.Editor.dll
-D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\FastReport.Install.dll
-D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\FastReport.VSDesign.dll
-D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\FastReport.Web.dll
 D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\SiftingDataBll.dll
 D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\SiftingDataEntity.dll
 D:\ProjectData\QingXin\分筛\SiftingData\SiftingData\bin\Debug\Utility.dll
